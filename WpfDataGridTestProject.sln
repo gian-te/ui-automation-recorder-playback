@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{A8DCC2A7-79EE-4B60-99E6-5DEDC769C99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorderLib", "RecorderLib\RecorderLib.csproj", "{3C908057-61B8-4171-8E40-5D044562C70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DCC2A7-79EE-4B60-99E6-5DEDC769C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DCC2A7-79EE-4B60-99E6-5DEDC769C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DCC2A7-79EE-4B60-99E6-5DEDC769C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DCC2A7-79EE-4B60-99E6-5DEDC769C99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C908057-61B8-4171-8E40-5D044562C70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C908057-61B8-4171-8E40-5D044562C70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C908057-61B8-4171-8E40-5D044562C70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C908057-61B8-4171-8E40-5D044562C70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9625FDDB-FF26-440A-B1B8-0592BE1AED69}
+	EndGlobalSection
+EndGlobal
